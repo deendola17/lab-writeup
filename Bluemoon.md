@@ -1,4 +1,4 @@
-# 🔵 Bluemoon CTF Write-up (Easy)
+# 🔵 Bluemoon 
 
 ## 📌 Overview
 
