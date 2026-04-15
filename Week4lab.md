@@ -48,14 +48,10 @@ This repository contains forensic analysis of various files using steganography 
 ## 4. Rubiks.jpg
 *   **Tools Used:** `file`, `binwalk`
 <img width="582" height="67" alt="image" src="https://github.com/user-attachments/assets/a1087c43-d4ac-457f-b321-165e14805d39" />
-<img width="1627" height="475" alt="image" src="https://github.com/user-attachments/assets/559d07c2-348b-4c7e-9802-28bbbcaeeaf8" />
 
 *   **Analysis:**
     1.  **File Identification:** Identified as a PNG image disguised as a JPEG.
     2.  **Binwalk Scan:** Found Zlib compressed data at `0x29`.
-*   **Checksum Analysis:**
-    *   **MD5 Checksum:** `e96542f3574d8af2b1c93b0918fb1d9b`
-    *   **Translated Keyword:** `SHADOW`
 
 ---
 
